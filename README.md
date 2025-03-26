@@ -4,6 +4,11 @@
 <!---- 💞️ I’m looking to collaborate on absolutley nothing at this point. --->
 - ⚡ Fun fact: I'm a part of Hackclub! (you should join)
 
+wakatime thingy
+
+![wakastats ig](https://github-readme-stats.hackclub.dev/api/wakatime?username=74&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+
+
 my stats
 
 ![thelegendofmario's Stats](https://github-readme-stats.vercel.app/api?username=thelegendofmario&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
