@@ -1,8 +1,10 @@
 # 👋 Hi, I’m diflouroethane.
-(_previously **thelegendofmario**_)
-#### _Fun fact: I'm a part of [Hackclub](https://hackclub.com/) (a global community of teenagers who make things)!_
+(_**dfe** for short_)     
+**Yes, it is a name of a gas (one that is actually found in compressed air), because it sounds cool.**
 
-I’m just a high-schooler that started programming because of hackclub. If it weren't for hackclub, I wouldn't be where I am today. I started because of the Sprig event in hackclub (basically make a game, get something that can run it).
+#### Fun fact: I'm a part of [Hackclub](https://hackclub.com/) (a global community of teenagers who make things)!
+
+I’m just someone who started programming because of hackclub. If it weren't for hackclub, I wouldn't be where I am today. I started because of the Sprig event in hackclub (basically make a game, get something that can run it).
 
 ## Skills:
 ![My Skills](https://skillicons.dev/icons?i=python,lua,vscode,javascript,elixir,go,markdown,html,sqlite,windows,linux,bash,kicad&theme=dark)
